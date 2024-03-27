@@ -7,7 +7,7 @@ A UI Library Rodrigo é uma biblioteca de componentes JavaScript que fornece uma
 Para instalar a biblioteca UI Library Rodrigo em seu projeto React com TypeScript, você pode usar o npm. Execute o seguinte comando no terminal:
 
 ```bash
-npm install ui-library-rodrigo
+npm i ui-library-portfoliorodrigo
 
 ```
 
